@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Onyx  Catering company",
-    "currentPage": "index.html",
+    "currentPage": "best-memphis-tn-food-truck-onyx-catering-company.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2040,7 +2040,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/hamburger-1280x946.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2055,7 +2055,7 @@
                 "text": "Burger Mondays:  Create it any way you want it.  Your choice Angus Beef or Turkey burger with Romaine Lettuce, Tomatoes, Purple Onions, Sweet or Dill pickles, Cheddar or Pepper Jack Cheese on a Hawaiian Sweet Bun, mayo, mustard and ketchup.  Add Turkey Bacon $1 extra.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"best-memphis-tn-food-truck-onyx-catering-company.html#content6-j\" data-toolbar=\"-mbrBtnMove\">Order Now!!!</a> ",
                 "overlayColor": "#232323",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
@@ -2074,7 +2074,7 @@
                 "text": "Taco Tuesdays &nbsp;- Anyway you like them. &nbsp;Includes lettuce, tomatoes, cheese, ground turkey, salsa, sour cream, and green onions, chips and/or tortilla shells",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"best-memphis-tn-food-truck-onyx-catering-company.html#content6-i\" data-toolbar=\"-mbrBtnMove\">ORDER NOW</a> ",
                 "overlayColor": "#232323",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/friedchicken-1280x721.jpg",
@@ -2093,7 +2093,7 @@
                 "text": "WEDNESDAY - $1 Whole Wings Wednesdays, Whole Wings your choice, fried, baked, honey hot, honey gold or Bar B Que&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"best-memphis-tn-food-truck-onyx-catering-company.html#content6-n\" data-toolbar=\"-mbrBtnMove\">Order Now!!!</a> ",
                 "overlayColor": "#232323",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatisitsandwich-720x720.jpg",
@@ -2109,14 +2109,14 @@
                 "title": "<b>Shrimp Po Boy Thursdays</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "THURSDAY -&nbsp;Shrimp Po Boy Thursdays, $5 for 6 small shrimp, or $7 one dozen small shrimp or 6 jumbo shrimp with your choice of lettuce, tomatoes, onions, cheese cheddar chefs special sauce and/or mayo,mustard,ketchup.",
+                "text": "THURSDAY -&nbsp;Shrimp Po Boy Thursdays, $5 for 6 small shrimp, or $7 one dozen small shrimp or 6 jumbo shrimp with your choice of lettuce, tomatoes, onions, cheddar cheese &nbsp;chefs special sauce and/or mayo, mustard, ketchup.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"best-memphis-tn-food-truck-onyx-catering-company.html#content6-m\" data-toolbar=\"-mbrBtnMove\">Order Now!!!</a> ",
                 "overlayColor": "#232323",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/friedfish-1280x676.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2128,7 +2128,7 @@
                 "title": "<b>Fish Fry Fridays</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "FRIDAY -&nbsp;Fish Fry Fridays.  Plates &nbsp;and Your choice of fish, Fried Salmon Croquettes(3), catfish fillets (2), whole catfish (1), Big Bone Buffalo (2) or sandwich any one piece of fish $4 includes lettuce, tomatoes, cheese, mayo, mustard, ketchup, hot sauceincludes two sides.",
+                "text": "Your choice of fish, Fried Salmon Croquettes(3), catfish fillets (2), whole catfish (1), Big Bone Buffalo (2) or sandwich any one piece of fish $4 includes lettuce, tomatoes, cheese, mayo, mustard, ketchup, hot sauce includes two sides.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"best-memphis-tn-food-truck-onyx-catering-company.html#content6-l\" data-toolbar=\"-mbrBtnMove\">Order Now!!!</a> ",
                 "overlayColor": "#232323",
                 "overlayOpacity": "0.5"
